@@ -1,7 +1,7 @@
 # UAV
-Aditya Vishwanathan (adityavishi22@gmail.com)
-The University of Sydney
-Undergraduate Honors Thesis
+Aditya Vishwanathan (adityavishi22@gmail.com),
+The University of Sydney,
+Undergraduate Honors Thesis,
 
 UAV engine out problem using Fast Marching Trees (FMT)
 
