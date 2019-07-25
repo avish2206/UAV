@@ -1,0 +1,13 @@
+Using obs_test_1.mat 1000 points,
+Without path_reconstruction: runtime = 26.96 seconds, collision checks = 103914, cost = 122.87 seconds
+	With obstaclecluster   : runtime = 26.36 seconds, collision checks = 100848, cost = 122.87 seconds
+With path_reconstruction   : runtime = 17.10 seconds, collision checks = 64226 , cost = 122.87 seconds
+	With obstacle cluster  : runtime = 16.37 seconds, collision checks = 61552 , cost = 122.87 seconds
+
+
+Using obs_test_2.mat 1000 points 
+Without path_reconstruction: runtime = 135.93 seconds, collision checks = 377494, cost = 116.85 seconds
+	With obstaclecluster   : runtime = 80.45 seconds,  collision checks = 213506, cost = 120.65 seconds; WITH CLUSTER RANGE HALVED: collision checks = 297191, cost = 116.89 seconds
+With path_reconstruction   : runtime = 124.85 seconds, collision checks = 278882, cost = 116.85 seconds
+	With obstaclecluster   : runtime = 124.85 seconds, collision checks = 131736, cost = 120.65 seconds; WITH CLUSTER RANGE HALVED: collision checks = 201855, cost = 116.89 seconds
+
