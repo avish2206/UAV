@@ -1,5 +1,5 @@
 # UAV
-Aditya Vishwanathan (adityavishi22@gmail.com),
+Aditya Vishwanathan (aditya.vishwanathan@sydney.edu.au),
 The University of Sydney,
 Undergraduate Honors Thesis,
 
